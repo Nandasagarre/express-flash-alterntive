@@ -1,0 +1,3 @@
+As a beginer to node js and express. I was building my personal project, and wasted lots of time around this error "req.flash is not defined". read lots of stuff online.
+however decided to go wid a navie way to display errors/user messages.
+
